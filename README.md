@@ -3,4 +3,4 @@
 
 Repositório criado durante uma aula ao vivo!
 
-<p>parágrafo adicional
+parágrafo adicional 
