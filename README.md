@@ -1,4 +1,5 @@
-# olamundo
- primeiro repositório do curso de git e github
+# olá, Mundo! ^^
+ Primeiro repositório do curso de git e github
 
 Repositório criado durante uma aula ao vivo!
+Teste 2 read.me
